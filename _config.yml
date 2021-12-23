@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Amys Portfolios"
+title:       "Amy's Portfolios!"
 keywords:    "A landing page for my different website"
 description: "Check out all of my different blogs for games development, art and other!"
 source_link: "https://github.com/AmyE123"
