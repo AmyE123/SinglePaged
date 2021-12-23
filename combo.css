@@ -3,8 +3,3 @@
 {% include css/base.css %}
 {% include css/skeleton.css %}
 {% include css/main.css %}
-
-.border-purple2 { border-color: #d0b8e9 !important; }
-.text-purple2   { color: #d0b8e9; }
-.text-purple2 a { color: #d0b8e9; } 
-.bg-purple2     { background-color: #d0b8e9 !important; }

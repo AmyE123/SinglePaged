@@ -32,6 +32,13 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+  babypurple: '#d0b8e9'
+  babygreen: '#b9e9b9'
+  darkgreen: '#184d18'
+  babyblue: '#b9eaeb'
+  darkblue: '#164e4f'
+  babypink: '#eab9d1'
+  darkpink: '#4e1732'
 
 kramdown:
   auto_ids:  false
