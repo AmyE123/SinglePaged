@@ -10,6 +10,14 @@ html { box-sizing: border-box; }
     border-radius: .5em;    
 }
 
+.day-item-work {
+    border-radius: .5em;
+}
+
+.day-item-free {
+    border-radius: .5em;
+}
+
 .day-item {
     border: 1px solid #ccc;
 }
@@ -64,7 +72,29 @@ html { box-sizing: border-box; }
 }
 
 .day-item {
-    background: #eee;
+    background: #eeeeee82;
+    padding: .5em;
+    margin-bottom: 1em;
+    font-size: .8em;
+    height: 7em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.day-item-work {
+    background: #eb42426e;
+    padding: .5em;
+    margin-bottom: 1em;
+    font-size: .8em;
+    height: 7em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.day-item-free {
+    background: #94abcd5c;
     padding: .5em;
     margin-bottom: 1em;
     font-size: .8em;
@@ -85,7 +115,17 @@ html { box-sizing: border-box; }
 }
 
 .day-item-time {
-    color: #aaa;
+    color: #7e7e7e;
+    font-weight: bold;
+}
+
+.day-item-time-work {
+    color: #ffffffb0;
+    font-weight: bold;
+}
+
+.day-item-time-free {
+    color: #ffffffb0;
     font-weight: bold;
 }
 
