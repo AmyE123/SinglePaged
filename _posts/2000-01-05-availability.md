@@ -31,9 +31,13 @@ fa-icon: calendar
         <span class="day-item-title">SUMO Work</span>
         <span class="day-item-time-work">09:00&thinsp;&ndash;&thinsp;17:00</span>
       </div>
+      <div class="day-item-free">
+        <span class="day-item-title">FREE</span>
+        <span class="day-item-time-free">17:00&thinsp;&ndash;&thinsp;19:00</span>
+      </div>
       <div class="day-item-work">
         <span class="day-item-title">AG Work</span>
-        <span class="day-item-time-work">18:00&thinsp;&ndash;&thinsp;23:00</span>
+        <span class="day-item-time-work">19:00&thinsp;&ndash;&thinsp;23:00</span>
       </div>
     </div>
     <div class="day">
@@ -48,11 +52,7 @@ fa-icon: calendar
       </div>
       <div class="day-item-work">
         <span class="day-item-title">AG Work</span>
-        <span class="day-item-time-work">19:00&thinsp;&ndash;&thinsp;21:00</span>
-      </div>
-      <div class="day-item-free">
-        <span class="day-item-title">FREE</span>
-        <span class="day-item-time-free">21:00&thinsp;&ndash;&thinsp;23:00</span>
+        <span class="day-item-time-work">19:00&thinsp;&ndash;&thinsp;23:00</span>
       </div>
     </div>
     <div class="day">
@@ -61,9 +61,13 @@ fa-icon: calendar
         <span class="day-item-title">SUMO Work</span>
         <span class="day-item-time-work">09:00&thinsp;&ndash;&thinsp;17:00</span>
       </div>
+      <div class="day-item-free">
+        <span class="day-item-title">FREE</span>
+        <span class="day-item-time-free">17:00&thinsp;&ndash;&thinsp;19:00</span>
+      </div>
       <div class="day-item-work">
         <span class="day-item-title">AG Work</span>
-        <span class="day-item-time-work">18:00&thinsp;&ndash;&thinsp;23:00</span>
+        <span class="day-item-time-work">19:00&thinsp;&ndash;&thinsp;23:00</span>
       </div>
     </div>
     <div class="day">
@@ -71,6 +75,10 @@ fa-icon: calendar
       <div class="day-item-work">
         <span class="day-item-title">SUMO Work</span>
         <span class="day-item-time-work">09:00&thinsp;&ndash;&thinsp;17:00</span>
+      </div>
+      <div class="day-item-free">
+        <span class="day-item-title">FREE</span>
+        <span class="day-item-time-free">17:00&thinsp;&ndash;&thinsp;19:00</span>
       </div>
       <div class="day-item-work">
         <span class="day-item-title">AG Work</span>
